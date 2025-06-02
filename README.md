@@ -1,7 +1,8 @@
 # Image-Size_Reducer
 A modern and minimal Image Size Reducer tool with all the features you requested. This will include drag &amp; drop functionality, image preview, quality control, and a clean responsive design.
 
-![image](https://github.com/user-attachments/assets/a403cade-7923-453b-b689-3735d9ad2bd9)
+![image](https://github.com/user-attachments/assets/e32f8fef-9c22-42da-b921-5f369717248b)
+
 
 ![image](https://github.com/user-attachments/assets/9227d934-d1ba-4404-ab0e-9e81149c657b)
 
